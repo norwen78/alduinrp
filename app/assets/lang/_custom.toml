@@ -1,20 +1,20 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "Alduin Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
+mediaGitHubURL = "https://github.com/norwen78/alduinrp"
 mediaXURL = "#"
-mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
-mediaDiscordURL = "https://discord.gg/zNWUXdt"
+mediaInstagramURL = "https://www.instagram.com/alduinrp/"
+mediaYouTubeURL = "https://www.youtube.com/watch?v=mSWQ6YytqMg"
+mediaDiscordURL = "https://discord.com/invite/a8VDYaJUZx"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://github.com/norwen78/alduinrp"
+supportLink = "https://github.com/norwen78/alduinrp/issues"
 
 [ejs.welcome]
 welcomeHeader = "Bienvenue sur Alduin"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeDescription = "AlduinRP est un serveur Serious RP.   Incarnez qui vous souhaitez au bas de l'échelle sociale et gravissez là si c'est votre but ou vivez votre vie paisible même si nul nest a l'abri.    Alduin vous offre la possibilité de ressentir une expérience médiévale qui cherche de jours en jours a atteindre un réalisme et une proximité toujours plus grande."
+welcomeDescCTA = "Tu n’es qu’à quelques clics de nous rejoindre."
